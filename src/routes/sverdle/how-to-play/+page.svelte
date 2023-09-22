@@ -1,10 +1,10 @@
 <svelte:head>
-	<title>How to play Sverdle</title>
-	<meta name="description" content="How to play Sverdle" />
+	<title>Как играть в Слова</title>
+	<meta name="description" content="Как играть в Слова" />
 </svelte:head>
 
 <div class="text-column">
-	<h1>How to play Sverdle</h1>
+	<h1>Как играть в Слова?</h1>
 
 	<p>
 		Это клон <a href="https://www.nytimes.com/games/wordle/index.html">Wordle</a>, игры в угадывание слов. Для игры введите английское слово из пяти букв. Например:

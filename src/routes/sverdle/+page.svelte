@@ -88,11 +88,11 @@
 <svelte:window on:keydown={keydown} />
 
 <svelte:head>
-	<title>Sverdle</title>
-	<meta name="description" content="A Wordle clone written in SvelteKit" />
+	<title>Слова</title>
+	<meta name="description" content="Клон Wordle, написанный на SvelteKit." />
 </svelte:head>
 
-<h1 class="visually-hidden">Sverdle</h1>
+<h1 class="visually-hidden">Слова</h1>
 
 <form
 	method="POST"
