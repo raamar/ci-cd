@@ -144,7 +144,7 @@
 				<p>the answer was "{data.answer}"</p>
 			{/if}
 			<button data-key="enter" class="restart selected" formaction="?/restart">
-				{won ? 'you won :)' : `game over :(`} play again?
+				{won ? 'Вы выиграли! 🎉' : `Игра окончена 😕`} сыграем еще?
 			</button>
 		{:else}
 			<div class="keyboard">
@@ -160,7 +160,7 @@
 					back
 				</button>
 
-				{#each ['qwertyuiop', 'asdfghjkl', 'zxcvbnm'] as row}
+				{#each ['йцукенгшщзхъ', 'фывапролджэ', 'ячсмитьбю'] as row}
 					<div class="row">
 						{#each row as letter}
 							<button
@@ -358,7 +358,7 @@
 	}
 
 	.keyboard button[data-key='enter'] {
-		right: calc(50% + 3.5 * var(--size) + 0.8rem);
+		right: calc(50% + 4.58 * var(--size) + 0.8rem);
 	}
 
 	.keyboard button[data-key='backspace'] {
