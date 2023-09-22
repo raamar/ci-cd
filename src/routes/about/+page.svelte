@@ -1,6 +1,6 @@
 <svelte:head>
-	<title>About</title>
-	<meta name="description" content="About this app" />
+	<title>О проекте</title>
+	<meta name="description" content="О проекте" />
 </svelte:head>
 
 <div class="text-column">
