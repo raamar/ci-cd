@@ -11,7 +11,7 @@
 	</main>
 
 	<footer>
-		<p>svelte demo app; ci/cd; nginx; https</p>
+		<p>Тестировние: sveltekit, ci/cd, nginx, https</p>
 	</footer>
 </div>
 

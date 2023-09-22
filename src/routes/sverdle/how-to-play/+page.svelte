@@ -7,8 +7,7 @@
 	<h1>How to play Sverdle</h1>
 
 	<p>
-		Sverdle is a clone of <a href="https://www.nytimes.com/games/wordle/index.html">Wordle</a>, the
-		word guessing game. To play, enter a five-letter English word. For example:
+		Это клон <a href="https://www.nytimes.com/games/wordle/index.html">Wordle</a>, игры в угадывание слов. Для игры введите английское слово из пяти букв. Например:
 	</p>
 
 	<div class="example">
@@ -20,10 +19,9 @@
 	</div>
 
 	<p>
-		The <span class="exact">y</span> is in the right place. <span class="close">r</span> and
+		Буква <span class="exact">y</span> находится в нужном месте. <span class="close">r</span> и
 		<span class="close">t</span>
-		are the right letters, but in the wrong place. The other letters are wrong, and can be discarded.
-		Let's make another guess:
+		равильные буквы, но не в том месте. Остальные буквы неправильные и их можно отбросить. Давайте один пример:
 	</p>
 
 	<div class="example">
@@ -34,12 +32,10 @@
 		<span class="exact">y</span>
 	</div>
 
-	<p>This time we guessed right! You have <strong>six</strong> guesses to get the word.</p>
+	<p>На этот раз мы угадали! У вас есть  <strong>шесть</strong> попыток, чтобы угадать слово.</p>
 
 	<p>
-		Unlike the original Wordle, Sverdle runs on the server instead of in the browser, making it
-		impossible to cheat. It uses <code>&lt;form&gt;</code> and cookies to submit data, meaning you can
-		even play with JavaScript disabled!
+		В отличие от оригинального Wordle, наша игра работает на сервере, а не в браузере, что делает невозможным мошенничество. Для отправки данных он использует <code>&lt;form&gt;</code> файлы cookie, а это значит, что вы можете играть даже с отключенным JavaScript!
 	</p>
 </div>
 
