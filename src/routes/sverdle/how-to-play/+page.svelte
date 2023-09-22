@@ -11,25 +11,23 @@
 	</p>
 
 	<div class="example">
-		<span class="close">r</span>
-		<span class="missing">i</span>
-		<span class="close">t</span>
-		<span class="missing">z</span>
-		<span class="exact">y</span>
+		<span class="missing">ц</span>
+		<span class="exact">а</span>
+		<span class="missing">п</span>
+		<span class="close">л</span>
+		<span class="exact">я</span>
 	</div>
 
 	<p>
-		Буква <span class="exact">y</span> находится в нужном месте. <span class="close">r</span> и
-		<span class="close">t</span>
-		равильные буквы, но не в том месте. Остальные буквы неправильные и их можно отбросить. Давайте один пример:
+		Буквы <span class="exact">а</span> и <span class="exact">я</span> находится в нужном месте. <span class="close">л</span> правильная буква, но не в том месте. Остальные буквы неправильные и их можно отбросить. Давайте один пример:
 	</p>
 
 	<div class="example">
-		<span class="exact">p</span>
-		<span class="exact">a</span>
-		<span class="exact">r</span>
-		<span class="exact">t</span>
-		<span class="exact">y</span>
+		<span class="exact">л</span>
+		<span class="exact">а</span>
+		<span class="exact">д</span>
+		<span class="exact">ь</span>
+		<span class="exact">я</span>
 	</div>
 
 	<p>На этот раз мы угадали! У вас есть  <strong>шесть</strong> попыток, чтобы угадать слово.</p>
