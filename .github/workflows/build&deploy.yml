@@ -52,4 +52,3 @@ jobs:
           SCRIPT_AFTER: |
             cd ${{ secrets.REMOTE_TARGET }}
             echo '{ "type": "module" }' >> package.json
-            node index.js
