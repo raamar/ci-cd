@@ -141,7 +141,7 @@
 	<div class="controls">
 		{#if won || data.answers.length >= 6}
 			{#if !won && data.answer}
-				<p>the answer was "{data.answer}"</p>
+				<p>Ответ: "{data.answer}"</p>
 			{/if}
 			<button data-key="enter" class="restart selected" formaction="?/restart">
 				{won ? 'Вы выиграли! 🎉' : `Игра окончена 😕`} сыграем еще?
